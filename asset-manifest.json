@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/serv_factura/static/css/main.0b4e74b4.css",
-    "main.js": "/serv_factura/static/js/main.d5d0b830.js",
+    "main.js": "/serv_factura/static/js/main.92a4a45f.js",
     "static/js/787.2415ec94.chunk.js": "/serv_factura/static/js/787.2415ec94.chunk.js",
     "index.html": "/serv_factura/index.html",
     "main.0b4e74b4.css.map": "/serv_factura/static/css/main.0b4e74b4.css.map",
-    "main.d5d0b830.js.map": "/serv_factura/static/js/main.d5d0b830.js.map",
+    "main.92a4a45f.js.map": "/serv_factura/static/js/main.92a4a45f.js.map",
     "787.2415ec94.chunk.js.map": "/serv_factura/static/js/787.2415ec94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.d5d0b830.js"
+    "static/js/main.92a4a45f.js"
   ]
 }
